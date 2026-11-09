@@ -17,7 +17,7 @@ export default function Navbar() {
           </svg>
           MagicPopup
         </a>
-        
+
         <div className={`nav-links-wrapper ${isOpen ? 'open' : ''}`} id="nav-links-wrapper">
           <ul className="nav-links">
             <li><a href="#features" className="nav-link" onClick={closeMenu}>Features</a></li>
@@ -34,9 +34,9 @@ export default function Navbar() {
           <a href="https://github.com/Malhar-Jani/magicpopup-landing#product-tour" className="btn btn-primary" onClick={closeMenu}>View project</a>
         </div>
 
-        <button 
-          className="mobile-nav-toggle" 
-          id="mobile-nav-toggle" 
+        <button
+          className="mobile-nav-toggle"
+          id="mobile-nav-toggle"
           aria-label="Toggle Navigation Menu"
           onClick={() => setIsOpen(!isOpen)}
         >
@@ -46,4 +46,3 @@ export default function Navbar() {
     </nav>
   );
 }
-

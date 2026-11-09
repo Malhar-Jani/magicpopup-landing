@@ -7,15 +7,15 @@ function FAQItem({ question, answer }) {
 
   return (
     <div className={`faq-item ${isOpen ? 'active' : ''}`}>
-      <button 
-        className="faq-trigger" 
+      <button
+        className="faq-trigger"
         aria-expanded={isOpen ? "true" : "false"}
         onClick={() => setIsOpen(!isOpen)}
       >
         {question}
         <ChevronDown className="faq-chevron" />
       </button>
-      <div 
+      <div
         ref={panelRef}
         className="faq-panel"
         style={{ maxHeight: isOpen ? `${panelRef.current?.scrollHeight}px` : '0px' }}
@@ -85,4 +85,3 @@ export default function FAQ() {
     </section>
   );
 }
-

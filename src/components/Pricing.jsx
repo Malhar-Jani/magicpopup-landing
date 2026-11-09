@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './Pricing.css'; 
+import './Pricing.css';
 
 function Pricing() {
   return (
@@ -24,7 +24,7 @@ function Pricing() {
               <span className="period">/mo</span>
             </div>
             <a href="https://github.com/Malhar-Jani/magicpopup-landing#product-tour" className="btn btn-outline pricing-btn">View project</a>
-            
+
             <ul className="pricing-features">
               <li><span className="check">✓</span> Up to 1,000 page views/mo</li>
               <li><span className="check">✓</span> 3 Basic Templates</li>
@@ -44,7 +44,7 @@ function Pricing() {
               <span className="period">/mo</span>
             </div>
             <a href="https://github.com/Malhar-Jani/magicpopup-landing#product-tour" className="btn btn-primary pricing-btn">View project</a>
-            
+
             <ul className="pricing-features">
               <li><span className="check">✓</span> Up to 50,000 page views/mo</li>
               <li><span className="check">✓</span> All Premium Templates</li>
@@ -64,7 +64,7 @@ function Pricing() {
               <span className="period">/mo</span>
             </div>
             <a href="https://github.com/Malhar-Jani/magicpopup-landing#product-tour" className="btn btn-outline pricing-btn">View project</a>
-            
+
             <ul className="pricing-features">
               <li><span className="check">✓</span> Unlimited page views</li>
               <li><span className="check">✓</span> Custom CSS & Templates</li>
