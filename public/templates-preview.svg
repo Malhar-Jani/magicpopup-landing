@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-label="Popup templates">
+<rect width="1000" height="620" rx="24" fill="#f6f5f1"/><rect x="24" y="24" width="952" height="572" rx="16" fill="#fff" stroke="#deddd7"/>
+<text x="64" y="90" font-family="system-ui,sans-serif" font-size="28" font-weight="600" fill="#171b28">Popup templates</text>
+<rect x="64" y="130" width="872" height="370" rx="12" fill="#f6f5f1"/>
+<text x="500" y="290" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" fill="#606574">Product preview</text>
+<text x="500" y="330" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" fill="#606574">Account screenshots omitted for privacy</text>
+</svg>
