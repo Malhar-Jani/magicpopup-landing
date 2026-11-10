@@ -36,83 +36,86 @@ The wider backend used NestJS, Prisma, and JWT-based authentication. The importa
 
 ## Product tour
 
-Screenshots from the original project, including the dashboard and editor backed by that work. These are interface previews, not screenshots of backend code.
+A complete walkthrough of the product flow—from the public landing page to authentication, website dashboard setup, the visual popup editor, and performance analytics.
 
-### Active popups
+---
 
-![Active popups](docs/screenshots/active-popup.png)
+### 1. Landing page
 
-### Analytics breakdown
-
-![Analytics breakdown](docs/screenshots/anal2.png)
-
-### Website analytics
-
-![Website analytics](docs/screenshots/analweb.png)
-
-### Analytics overview
-
-![Analytics overview](docs/screenshots/analystics.png)
-
-### Account creation
-
-![Account creation](docs/screenshots/create-acc.png)
-
-### Website dashboard
-
-![Website dashboard](docs/screenshots/dashboard.png)
-
-### Embed script installation
-
-![Embed script installation](docs/screenshots/install-script.png)
-
-### Landing page — opening
-
+#### Hero & opening
 ![Landing page — opening](docs/screenshots/landingpage1.png)
 
-### Landing page — editor walkthrough
-
+#### Interactive editor walkthrough
 ![Landing page — editor walkthrough](docs/screenshots/landingpage2.png)
 
-### Login
+---
 
+### 2. Authentication & accounts
+
+#### Account creation
+![Account creation](docs/screenshots/create-acc.png)
+
+#### Login
 ![Login](docs/screenshots/magic-popup-login.png)
 
-### Editor — content
+---
 
-![Editor — content](docs/screenshots/popup-editor-1.png)
+### 3. Dashboard & website setup
 
-### Editor — design
+#### Website dashboard
+![Website dashboard](docs/screenshots/dashboard.png)
 
-![Editor — design](docs/screenshots/popup-editor-2.png)
-
-### Editor — layout
-
-![Editor — layout](docs/screenshots/popup-editor-3.png)
-
-### Editor — behaviour
-
-![Editor — behaviour](docs/screenshots/popup-editor-4.png)
-
-### Editor — scheduling
-
-![Editor — scheduling](docs/screenshots/popup-editor-5.png)
-
-### Editor — images
-
-![Editor — images](docs/screenshots/popup-editor-6.png)
-
-### Template selection
-
-![Template selection](docs/screenshots/templates-selections.png)
-
-### Add a website
-
+#### Add a website
 ![Add a website](docs/screenshots/1_add_website.png)
 
-### Earlier editor preview
+#### Embed script installation
+![Embed script installation](docs/screenshots/install-script.png)
 
+---
+
+### 4. Templates & popup editor
+
+#### Template selection
+![Template selection](docs/screenshots/templates-selections.png)
+
+#### Active popups management
+![Active popups](docs/screenshots/active-popup.png)
+
+#### Visual editor — Content
+![Editor — content](docs/screenshots/popup-editor-1.png)
+
+#### Visual editor — Design & styling
+![Editor — design](docs/screenshots/popup-editor-2.png)
+
+#### Visual editor — Layout & placement
+![Editor — layout](docs/screenshots/popup-editor-3.png)
+
+#### Visual editor — Triggers & behaviour
+![Editor — behaviour](docs/screenshots/popup-editor-4.png)
+
+#### Visual editor — Scheduling rules
+![Editor — scheduling](docs/screenshots/popup-editor-5.png)
+
+#### Visual editor — Images & assets
+![Editor — images](docs/screenshots/popup-editor-6.png)
+
+#### Early prototype preview
 ![Earlier editor preview](docs/screenshots/2_popup_editor.png)
+
+---
+
+### 5. Analytics & reporting
+
+#### Analytics overview
+![Analytics overview](docs/screenshots/analystics.png)
+
+#### Impression & interaction breakdown
+![Analytics breakdown](docs/screenshots/anal2.png)
+
+#### Website-level metrics
+![Website analytics](docs/screenshots/analweb.png)
+
+---
 
 ## Repository layout
 
